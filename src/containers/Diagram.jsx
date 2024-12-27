@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import ReactFlow, { addEdge, Controls, removeElements } from 'react-flow-renderer';
+import ReactFlow, { addEdge, Controls} from 'react-flow-renderer';
 import Sidebar from '../components/Sidebar';
 import './Diagram.css';
 
