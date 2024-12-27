@@ -1,0 +1,17 @@
+.diagram-container {
+    display: flex;
+    height: 80vh;
+  }
+  
+  .sidebar {
+    width: 20%;
+    background: #f4f4f4;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .react-flow {
+    flex: 1;
+    background: #fafafa;
+  }
+  
